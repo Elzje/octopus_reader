@@ -1,5 +1,5 @@
 # octopus_reader
-# 📚 Library Reader — Book Search & Reading App 
+# 📚 Octopur reader — Book Search & Reading App 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f4da.svg" alt="Library Reader" width="120"/>
@@ -73,14 +73,14 @@ Export any finished collection of quotes to:
 
 ### Option 1 — Ready-to-use .exe (Windows)
 1. Download the latest release from the [Releases](../../releases) page
-2. Run `LibraryReader.exe`
+2. Run `octopur_reader.exe`
 3. No installation required ✅
 
 ### Option 2 — From Source Code
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/library-reader.git
-cd library-reader
+git clone https://github.com/Elzje/octopus_reader.git
+cd octopus_reader
 
 # 2. Install dependencies
 pip install -r requirements.txt
