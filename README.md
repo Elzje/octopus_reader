@@ -2,7 +2,7 @@
 # 📚 Library Reader — Book Search & Reading App 
 
 <p align="center">
-  <img src="icon.ico" alt="Library Reader" width="120"/>
+  <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f4da.svg" alt="Library Reader" width="120"/>
 </p>
 
 <p align="center">
