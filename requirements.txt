@@ -1,0 +1,20 @@
+# =========================================================
+#  Octopus Reader — dependencies
+#  Install: pip install -r requirements.txt
+# =========================================================
+
+# --- Core UI ---
+PyQt6>=6.4.0
+
+# --- Book formats ---
+EbookLib>=0.18          # .epub
+beautifulsoup4>=4.12.0  # .epub, .fb2
+lxml>=4.9.0             # .fb2
+PyMuPDF>=1.23.0         # .pdf
+python-docx>=1.1.0      # .docx
+
+# --- Export ---
+reportlab>=4.0.0        # export to PDF
+
+# --- Optional (image support) ---
+Pillow>=10.0.0
