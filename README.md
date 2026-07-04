@@ -1,5 +1,5 @@
 # octopus_reader
-# 📚 Library Reader — Book Search & Reading App
+# 📚 Library Reader — Book Search & Reading App 
 
 <p align="center">
   <img src="icon.ico" alt="Library Reader" width="120"/>
