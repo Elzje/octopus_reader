@@ -86,27 +86,6 @@ are saved. Open the app again and everything is right where you left it.
 > *(coming soon — if you'd like to help, send a screenshot in your review!)*
 
 ---
-
-## 🚀 Installation & Launch
-
-### Option 1 — Ready-to-use .exe (Windows)
-1. Download the latest release from the [Releases](../../releases) page
-2. Run `octopus_reader.exe`
-3. No installation required ✅
-
-### Option 2 — From Source Code
-
-```bash
-# 1. Clone the repository
-git clone https://github.com/Elzje/octopus_reader.git
-cd octopus_reader
-
-# 2. Install dependencies
-pip install -r requirements.txt
-
-# 3. Run
-python reader.py
-```
 ### Requirements
 
 | | |
@@ -193,5 +172,26 @@ Found a bug or have an idea?
 
 This project is licensed under the **MIT License** —
 feel free to use, modify and share.
+
+## 🚀 Installation & Launch
+
+### Option 1 — Ready-to-use .exe (Windows)
+1. Download the latest release from the [Releases](../../releases) page
+2. Run `octopus_reader.exe`
+3. No installation required ✅
+
+### Option 2 — From Source Code
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/Elzje/octopus_reader.git
+cd octopus_reader
+
+# 2. Install dependencies
+pip install -r requirements.txt
+
+# 3. Run
+python reader.py
+```
 
 See [LICENSE](LICENSE) for details.
