@@ -193,5 +193,3 @@ pip install -r requirements.txt
 # 3. Run
 python reader.py
 ```
-
-See [LICENSE](LICENSE) for details.
